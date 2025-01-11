@@ -1,3 +1,5 @@
+console.log("task-4");
+
 function getShippingCost(country) {
     let price;
   

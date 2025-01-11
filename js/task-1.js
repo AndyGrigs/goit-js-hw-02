@@ -1,3 +1,4 @@
+console.log("task-1");
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
     const totalPrice = quantity * pricePerDroid;
   
